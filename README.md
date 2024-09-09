@@ -2,7 +2,7 @@
 Data analysis project for a computer hardware business aimed at addressing market challenges through real-time sales insights. **SQL** was used for data extraction and manipulation, while **Excel** supported data cleaning and analysis. The project involves building an interactive **Tableau** dashboard to help the Sales Director make data-driven decisions for improving performance and strategy.
 
 ## Setting up MySQL Database
-In this project, I worked with an SQL database dump provided in the `db_dump.sql` file. I began by downloading the file to my local system and then imported it into the top of my MySQL environment to set up the database. This process initialized the necessary database structure and data, allowing me to proceed with further analysis. After the import, I performed additional queries and data exploration to extract key insights required for the project. This setup was critical in enabling a seamless workflow for my analysis.
+In this project, I worked with an SQL database dump provided in the `db_dump.sql` file. I began by downloading the file to my local system and then imported it onto the top of my MySQL environment to set up the database. This process initialized the necessary database structure and data, allowing me to proceed with further analysis. After the import, I performed additional queries and data exploration to extract key insights required for the project. This setup was critical in enabling a seamless workflow for my analysis.
 
 
 ## Data Analysis Using SQL
