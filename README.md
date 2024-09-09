@@ -62,3 +62,7 @@ SELECT SUM(transactions.sales_amount) FROM transactions INNER JOIN date ON trans
 
 SQL, Tableau and Excel.
 
+## Monogram
+
+![AtliQ Hardware logo](https://github.com/user-attachments/assets/34676f28-418d-4055-868c-fbebbbe3d623)
+
