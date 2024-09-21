@@ -1,6 +1,15 @@
 # Sales Insights of AtliQ Hardware
 Data analysis project for a computer hardware business aimed at addressing market challenges through real-time sales insights. **SQL** was used for data extraction and manipulation, while **Excel** supported data cleaning and analysis. The project involves building an interactive **Tableau** dashboard to help the Sales Director make data-driven decisions for improving performance and strategy.
 
+## Problem Statement 
+This project performed India-based AtliQ hardware company sales insights - A Data Analysis project.
+
+AtliQ Hardware is a company that supplies computer hardware and peripherals to many clients such as surge stores, nomad stores etc. across India. AtliQ Hardware's head office is in Delhi, India and they have many regional offices throughout India.
+
+The sales director for this company is facing a lot of challenges the market is growing dynamically and the sales director is facing issues in terms of tracking the sales in this dynamic growth market he is having issues with the growth of this business, as overall sales was declining. He is the regional manager for North India, South and Central India. Whenever he wants to get insights into these regions he would call these people and on the phone regional manager give some insights to him that this was the sales last quarter and we are going to grow by this much in the next quarter.
+
+Atliq Hardware faced challenges with declining sales and lacked factual data to support decision-making, causing frustration for its owner. The regional manager failed to provide a complete business picture. To address this, I developed a Tableau sales dashboard, enabling the company to access daily insights, make data-driven decisions, and boost sales performance.
+
 ## Setting up MySQL Database
 In this project, I worked with an SQL database dump provided in the `db_dump.sql` file. I began by downloading the file to my local system and then imported it onto the top of my MySQL environment to set up the database. This process initialized the necessary database structure and data, allowing me to proceed with further analysis. After the import, I performed additional queries and data exploration to extract key insights required for the project. This setup was critical in enabling a seamless workflow for my analysis.
 
